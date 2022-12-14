@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Batch 1",
+    "startTime": "6AM",
+    "endTime": "7AM",
+    "batchImg": "https://img.freepik.com/free-vector/chakras-illustration-concept_23-2148568217.jpg?w=740&t=st=1671023539~exp=1671024139~hmac=05df7ec74c44fd94d21228d78efca304ac6a4d22e18f55cb228c93c1efb5e518"
+  },
+  {
+    "title": "Batch 2",
+    "startTime": "7AM",
+    "endTime": "8AM",
+    "batchImg": "https://img.freepik.com/free-vector/chakras-illustration-concept_23-2148568217.jpg?w=740&t=st=1671023539~exp=1671024139~hmac=05df7ec74c44fd94d21228d78efca304ac6a4d22e18f55cb228c93c1efb5e518"
+  },
+  {
+    "title": "Batch 3",
+    "startTime": "8AM",
+    "endTime": "9AM",
+    "batchImg": "https://img.freepik.com/free-vector/chakras-illustration-concept_23-2148568217.jpg?w=740&t=st=1671023539~exp=1671024139~hmac=05df7ec74c44fd94d21228d78efca304ac6a4d22e18f55cb228c93c1efb5e518"
+  },
+  {
+    "title": "Batch 4",
+    "startTime": "5AM",
+    "endTime": "6PM",
+    "batchImg": "https://img.freepik.com/free-vector/chakras-illustration-concept_23-2148568217.jpg?w=740&t=st=1671023539~exp=1671024139~hmac=05df7ec74c44fd94d21228d78efca304ac6a4d22e18f55cb228c93c1efb5e518"
+  }
+]
